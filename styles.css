@@ -1,5 +1,6 @@
 body {
 	background: black;
+	font-family: "Preahvihear", sans-serif;
 }
 
 * {
@@ -33,7 +34,7 @@ body {
 }
 
 .body-left p:first-child {
-	margin-top: 0;
+	margin-top: 0%;
 }
 
 .body-left,
@@ -52,5 +53,5 @@ input {
 
 button {
 	background-color: darkgray;
-	padding: 0px;
+	padding: 5px 10px;
 }
